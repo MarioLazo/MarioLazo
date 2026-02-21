@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mario Lazo 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Enthusiast;Co-author+of+AI+Data+Privacy+and+Protection;Transforming+Uncertainty+into+Innovation;Building+the+Future+with+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Principal+AI+Solution+Architect;Powering+Business+Transformation+with+AI;Co-author+of+AI+Data+Privacy+and+Protection;Agentic+AI+%26+LLM+Engineering+Expert;PMP+%7C+CSPO+%7C+Certified+AI+Practitioner)](https://git.io/typing-svg)
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=MarioLazo&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Stats">
 
@@ -14,23 +14,46 @@
 
 > *"Fascinated by transformative journeys amidst uncertainty and challenges"*
 
-I'm a passionate **AI/ML practitioner** based in **Austin, Texas** 🤠, dedicated to exploring the intersection of artificial intelligence, machine learning, and data privacy. As a **co-author of "AI Data Privacy and Protection"**, I'm committed to building responsible AI systems that respect user privacy while delivering transformative value.
+I'm a **Principal AI Solution Architect** based in **Austin, Texas** 🤠, dedicated to **powering business transformation with AI**. With expertise spanning enterprise AI solutions, agentic systems, and responsible AI practices, I help organizations harness the power of intelligent systems while maintaining ethical standards.
+
+As a **co-author of "AI Data Privacy and Protection"**, I'm committed to building AI systems that respect user privacy while delivering transformative business value.
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding gif">
 
 ### 🎯 What I'm Focused On
 
-- 🔬 **Deep Learning** & Neural Network architectures
-- 🤖 **Large Language Models (LLMs)** & AI Agents
-- 🔐 **AI Privacy & Security** best practices
-- 📊 **Data Science** & Analytics
-- 🎓 **Continuous Learning** - Always a student
+- 🏗️ **AI Solution Architecture** & Enterprise AI Strategy
+- 🤖 **Agentic AI** & Autonomous AI Systems
+- 🔬 **Large Language Models (LLMs)** & Generative AI
+- 🔐 **AI Privacy, Security & Governance**
+- 📊 **Data Science** & ML Engineering
+- 🚀 **Business Transformation** through AI
 
-### 🌱 Currently Learning
+### 🌱 Currently Exploring
 
-- Agent Engineering with OpenHands
-- Advanced ML Engineering techniques
-- LLM fine-tuning and deployment
+- Advanced Agent Engineering & Multi-Agent Systems
+- LLM Fine-tuning & Production Deployment
+- AI for Frontline Health & Economic Opportunity (DataKind)
+
+---
+
+## 🏅 Certifications & Credentials
+
+<div align="center">
+
+| Certification | Issuer |
+|--------------|--------|
+| 🎯 **Project Management Professional (PMP)** | Project Management Institute |
+| 📋 **Certified Scrum Product Owner (CSPO)** | Scrum Alliance |
+| 🤖 **Agentic AI and AI Agents for Leaders** | Vanderbilt University |
+| 🧠 **Generative AI Fundamentals** | Databricks |
+| 💬 **Google Prompting Essentials** | Google |
+| ⚙️ **AI Engineering Workshop** | BeMyApp |
+| 🔷 **Blue Prism Accredited ROM Architect** | Blue Prism |
+| ❤️ **DataKit Economic Opportunity** | DataKind |
+| 🏥 **DataKit Frontline Health** | DataKind |
+
+</div>
 
 ---
 
@@ -44,19 +67,23 @@ I'm a passionate **AI/ML practitioner** based in **Austin, Texas** 🤠, dedicat
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### AI/ML Frameworks
+### AI/ML & Generative AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 
-### Data & Cloud
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
