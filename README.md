@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Principal+AI+Solution+Architect;Powering+Business+Transformation+with+AI;Co-author+of+AI+Data+Privacy+and+Protection;Agentic+AI+%26+LLM+Engineering+Expert;PMP+%7C+CSPO+%7C+Certified+AI+Practitioner)](https://git.io/typing-svg)
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=MarioLazo&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Stats">
-
 </div>
 
 ---
@@ -144,31 +142,6 @@ Real-world insights from building RAG systems in production:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioLazo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLazo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLazo&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioLazo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarioLazo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -188,8 +161,6 @@ Real-world insights from building RAG systems in production:
 <div align="center">
 
 ### 🌟 *"In the midst of chaos, there is also opportunity"* - Sun Tzu
-
-![Profile Views](https://komarev.com/ghpvc/?username=MarioLazo&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
