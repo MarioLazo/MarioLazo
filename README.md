@@ -37,6 +37,66 @@ As a **co-author of "AI Data Privacy and Protection"**, I'm committed to buildin
 
 ---
 
+## 🚀 Join Me in Building the Future of AI
+
+<div align="center">
+
+### 🌟 Open Source Projects - Contributors Welcome! 🌟
+
+*I'm building resources to help the AI community grow. Your contributions, feedback, and ideas are welcome!*
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Vibe Coding to Agent Engineering](https://github.com/MarioLazo/vibe-coding-to-agent-engineering)
+
+**A hands-on course: From Vibe Coding to Agent Engineering with OpenHands**
+
+Learn to evolve from "vibe coding" to building production-ready AI agents. This project covers:
+
+- 🎯 Understanding AI-assisted development
+- 🛠️ Building autonomous AI agents
+- 🔧 Production deployment patterns
+- 📈 Best practices & real-world examples
+
+[![Contribute](https://img.shields.io/badge/👉_Contribute-00C853?style=for-the-badge)](https://github.com/MarioLazo/vibe-coding-to-agent-engineering)
+[![Star](https://img.shields.io/github/stars/MarioLazo/vibe-coding-to-agent-engineering?style=for-the-badge&color=FFD700)](https://github.com/MarioLazo/vibe-coding-to-agent-engineering)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [RAG Production Guide](https://github.com/MarioLazo/rag-production-guide)
+
+**Key findings on Retrieval Augmented Generation: Best Practices, Horror Stories & Lessons Learned**
+
+Real-world insights from building RAG systems in production:
+
+- 💡 Battle-tested best practices
+- ⚠️ Common pitfalls & how to avoid them
+- 🔥 Horror stories & lessons learned
+- 🚀 Production-ready patterns
+
+[![Contribute](https://img.shields.io/badge/👉_Contribute-00C853?style=for-the-badge)](https://github.com/MarioLazo/rag-production-guide)
+[![Star](https://img.shields.io/github/stars/MarioLazo/rag-production-guide?style=for-the-badge&color=FFD700)](https://github.com/MarioLazo/rag-production-guide)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+#### 💬 How to Contribute
+**⭐ Star the repos** • **🍴 Fork & Submit PRs** • **📝 Share your experiences** • **🐛 Report issues**
+
+*Every contribution makes a difference!*
+
+</div>
+
+---
+
 ## 🏅 Certifications & Credentials
 
 <div align="center">
@@ -57,45 +117,12 @@ As a **co-author of "AI Data Privacy and Protection"**, I'm committed to buildin
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Core Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### AI/ML & Generative AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
----
-
-## 📚 Featured Projects
+## 📚 Other Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🎓 **[Vibe Coding to Agent Engineering](https://github.com/MarioLazo/vibe-coding-to-agent-engineering)** | Hands-on course: From Vibe Coding to Agent Engineering with OpenHands | `AI Agents` `OpenHands` |
 | 🧮 **[LeetCode Solutions](https://github.com/MarioLazo/Leetcode)** | Algorithm solutions in Python | `Python` `Algorithms` |
 | 🔍 **[Data Observation Toolkit](https://github.com/MarioLazo/Data-Observation-Toolkit)** | Monitor data integrity and flag attention scenarios | `Data Quality` |
 | 🤖 **[LLM Zoomcamp](https://github.com/MarioLazo/llm-zoomcamp)** | Building Q&A systems with LLMs | `LLMs` `RAG` |
