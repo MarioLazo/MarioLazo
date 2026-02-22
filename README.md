@@ -131,14 +131,6 @@ Building the Agentic Center of Excellence — a practical guide to designing the
 
 ---
 
-## 📊 GitHub Activity
-
-*After more than a decade of building in stealth mode, I'm now sharing my agentic field notes openly.*
-
-![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarioLazo&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
 ## 🔧 Other Work
 
 | Project | Description |
