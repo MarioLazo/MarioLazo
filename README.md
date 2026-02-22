@@ -131,15 +131,6 @@ Building the Agentic Center of Excellence — a practical guide to designing the
 
 ---
 
-## 🔧 Other Work
-
-| Project | Description |
-|---------|-------------|
-| 🔍 [Data Observation Toolkit](https://github.com/MarioLazo/Data-Observation-Toolkit) | Monitor data integrity and surface attention scenarios in production pipelines |
-| 📖 [Data Scientist Handbook](https://github.com/MarioLazo/data-scientist-handbook) | Comprehensive learning resources for practitioners entering the field |
-
----
-
 ## Let's Build Together
 
 If you believe AI should serve humanity's biggest challenges — not just optimize ad clicks — I'd like to hear from you.
