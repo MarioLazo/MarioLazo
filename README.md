@@ -4,7 +4,7 @@
 
 I'm a **Data & AI Solution Architect** based in Austin, Texas — grounded in rigorous research, driven by problems worth solving.
 
-After a decade working in stealth mode across healthcare, finance, and enterprise operations — building 230+ agents, failing forward, and learning what actually works — I'm now sharing my field notes openly. **Because the biggest problems we face — poverty, disease, inequity — won't be solved by keeping knowledge locked away.**
+After a decade working in stealth mode across healthcare, finance, and enterprise operations — building award winning AI Workflows and 230+ agents, failing forward, and learning what actually works — I'm now sharing my field notes openly. **Because the biggest problems we face — poverty, disease, inequity — won't be solved by keeping knowledge locked away.**
 
 I believe AI must balance **the mind and the heart**. Technical rigor matters. So does building systems that serve people, not just metrics.
 
