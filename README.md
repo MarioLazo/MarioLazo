@@ -109,8 +109,8 @@ I write about the gap between AI hype and production reality — and what it tak
 **[AI Data Privacy and Protection](https://a.co/d/08QZ6bfp)** · Co-author  
 A practitioner's guide to building AI systems that respect user privacy while delivering real value.
 
-**Beyond the Bot** · Author  
-Enterprise AI transformation — from pilot purgatory to production.
+**Beyond the Bot** · Author *(in progress)*  
+Building the Agentic Center of Excellence — a practical guide to designing the agentic operating model and factory at scale to deliver tangible outcomes.
 
 ---
 
