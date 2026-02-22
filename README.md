@@ -1,167 +1,168 @@
-<div align="center">
+# Mario Lazo
 
-# Hi there, I'm Mario Lazo 👋
+> *"AI should accelerate human capability — and grow our hearts to be better people."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Principal+AI+Solution+Architect;Powering+Business+Transformation+with+AI;Co-author+of+AI+Data+Privacy+and+Protection;Agentic+AI+%26+LLM+Engineering+Expert;PMP+%7C+CSPO+%7C+Certified+AI+Practitioner)](https://git.io/typing-svg)
+I'm a **Data & AI Solution Architect** based in Austin, Texas — grounded in rigorous research, driven by problems worth solving.
 
-</div>
+After a decade working in stealth mode across healthcare, finance, and enterprise operations — building 230+ agents, failing forward, and learning what actually works — I'm now sharing my field notes openly. **Because the biggest problems we face — poverty, disease, inequity — won't be solved by keeping knowledge locked away.**
 
----
+I believe AI must balance **the mind and the heart**. Technical rigor matters. So does building systems that serve people, not just metrics.
 
-## 🧠 About Me
-
-> *"Fascinated by transformative journeys amidst uncertainty and challenges"*
-
-I'm a **Principal AI Solution Architect** based in **Austin, Texas** 🤠, dedicated to **powering business transformation with AI**. With expertise spanning enterprise AI solutions, agentic systems, and responsible AI practices, I help organizations harness the power of intelligent systems while maintaining ethical standards.
-
-As a **co-author of "AI Data Privacy and Protection"**, I'm committed to building AI systems that respect user privacy while delivering transformative business value.
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding gif">
-
-### 🎯 What I'm Focused On
-
-- 🏗️ **AI Solution Architecture** & Enterprise AI Strategy
-- 🤖 **Agentic AI** & Autonomous AI Systems
-- 🔬 **Large Language Models (LLMs)** & Generative AI
-- 🔐 **AI Privacy, Security & Governance**
-- 📊 **Data Science** & ML Engineering
-- 🚀 **Business Transformation** through AI
-
-### 🌱 Currently Exploring
-
-- Advanced Agent Engineering & Multi-Agent Systems
-- LLM Fine-tuning & Production Deployment
-- AI for Frontline Health & Economic Opportunity (DataKind)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariolazo/)
 
 ---
 
-## 🚀 Join Me in Building the Future of AI
+## 🔬 Active Research — Seeking Contributors
 
-<div align="center">
+*These aren't side projects. They're ongoing research and learning initiatives where I'm actively seeking collaborators — developers, domain experts, researchers, and writers willing to do the difficult work of building real, useful, smart, governed agents.*
 
-### 🌟 Open Source Projects - Contributors Welcome! 🌟
-
-*I'm building resources to help the AI community grow. Your contributions, feedback, and ideas are welcome!*
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🤖 [Vibe Coding to Agent Engineering](https://github.com/MarioLazo/vibe-coding-to-agent-engineering)
+### 🏭 [Agent Factory Reference](https://github.com/MarioLazo/agent-factory-reference)
+![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen?style=flat-square)
 
-**A hands-on course: From Vibe Coding to Agent Engineering with OpenHands**
+**Curating resources and assets to build the Agentic Factory in highly regulated industries** — healthcare, finance, and supply chain — where domain expertise is critical and governance isn't optional.
 
-Learn to evolve from "vibe coding" to building production-ready AI agents. This project covers:
+The practitioner's reference: clean, searchable, no jargon. Covers the operating model, orchestration, and observability needed to scale agents beyond pilot purgatory.
 
-- 🎯 Understanding AI-assisted development
-- 🛠️ Building autonomous AI agents
-- 🔧 Production deployment patterns
-- 📈 Best practices & real-world examples
-
-[![Contribute](https://img.shields.io/badge/👉_Contribute-00C853?style=for-the-badge)](https://github.com/MarioLazo/vibe-coding-to-agent-engineering)
-[![Star](https://img.shields.io/github/stars/MarioLazo/vibe-coding-to-agent-engineering?style=for-the-badge&color=FFD700)](https://github.com/MarioLazo/vibe-coding-to-agent-engineering)
+[⭐ Star](https://github.com/MarioLazo/agent-factory-reference) · [🍴 Fork](https://github.com/MarioLazo/agent-factory-reference/fork) · [📝 Contribute](https://github.com/MarioLazo/agent-factory-reference/issues)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 📚 [RAG Production Guide](https://github.com/MarioLazo/rag-production-guide)
+![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen?style=flat-square)
 
-**Key findings on Retrieval Augmented Generation: Best Practices, Horror Stories & Lessons Learned**
+**My personal guide as a solution architect — now open to all.** A compiled list of applied experience in intelligent document processing, agents, and research over the past 6 years.
 
-Real-world insights from building RAG systems in production:
+Battle-tested RAG: common failure modes, architecture decisions that don't survive contact with reality, and patterns that actually hold up in production.
 
-- 💡 Battle-tested best practices
-- ⚠️ Common pitfalls & how to avoid them
-- 🔥 Horror stories & lessons learned
-- 🚀 Production-ready patterns
+[⭐ Star](https://github.com/MarioLazo/rag-production-guide) · [🍴 Fork](https://github.com/MarioLazo/rag-production-guide/fork) · [📝 Contribute](https://github.com/MarioLazo/rag-production-guide/issues)
 
-[![Contribute](https://img.shields.io/badge/👉_Contribute-00C853?style=for-the-badge)](https://github.com/MarioLazo/rag-production-guide)
-[![Star](https://img.shields.io/github/stars/MarioLazo/rag-production-guide?style=for-the-badge&color=FFD700)](https://github.com/MarioLazo/rag-production-guide)
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🤖 [Vibe Coding to Agent Engineering](https://github.com/MarioLazo/vibe-coding-to-agent-engineering)
+![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen?style=flat-square) ![UT Dallas](https://img.shields.io/badge/UT_Dallas-Course_Material-orange?style=flat-square)
+
+**Teaching a class with the University of Texas at Dallas** — sharing research and teaching content to help developers transition to AI in a practical way.
+
+From vibe coding to agent engineering: a hands-on curriculum for developers making the leap from AI-assisted coding to building production-ready autonomous agents. Covers agent architecture, deployment patterns, and real-world engineering practices.
+
+[⭐ Star](https://github.com/MarioLazo/vibe-coding-to-agent-engineering) · [🍴 Fork](https://github.com/MarioLazo/vibe-coding-to-agent-engineering/fork) · [📝 Contribute](https://github.com/MarioLazo/vibe-coding-to-agent-engineering/issues)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-#### 💬 How to Contribute
-**⭐ Star the repos** • **🍴 Fork & Submit PRs** • **📝 Share your experiences** • **🐛 Report issues**
+## 🤝 Why Contribute?
 
-*Every contribution makes a difference!*
+I'm not looking for passive observers. I'm looking for people who want to **learn by building** and **grow by teaching others**.
 
-</div>
+| What You Get | What We Build Together |
+|--------------|------------------------|
+| 🎓 **Learn in public** — work through real problems, not tutorials | Real, useful, smart, governed agents |
+| 📝 **Co-author research papers** — your contributions become published work | Production-grade frameworks for regulated industries |
+| 🏆 **Build your reputation** — be recognized as an expert by giving back | A community of rigorous practitioners |
+| 🌱 **Grow with a community** — we do the difficult work together | Knowledge that's open and accessible to all |
+
+> *"If you want to go fast, go alone. If you want to go far, go together."*
 
 ---
 
-## 🏅 Certifications & Credentials
+## 📘 Coming Soon
 
-<div align="center">
+### 🧠 [Agentic CoE](https://github.com/MarioLazo/agentic-coe)
+![Coming Soon](https://img.shields.io/badge/status-coming_soon-yellow?style=flat-square)
 
-| Certification | Issuer |
-|--------------|--------|
-| 🎯 **Project Management Professional (PMP)** | Project Management Institute |
-| 📋 **Certified Scrum Product Owner (CSPO)** | Scrum Alliance |
-| 🤖 **Agentic AI and AI Agents for Leaders** | Vanderbilt University |
-| 🧠 **Generative AI Fundamentals** | Databricks |
-| 💬 **Google Prompting Essentials** | Google |
-| ⚙️ **AI Engineering Workshop** | BeMyApp |
-| 🔷 **Blue Prism Accredited ROM Architect** | Blue Prism |
-| ❤️ **DataKit Economic Opportunity** | DataKind |
-| 🏥 **DataKit Frontline Health** | DataKind |
+**Building an Agentic Center of Excellence** — the practitioner's map for enterprise AI transformation.
 
-</div>
+This repository is being developed as companion material for my upcoming book. It will include frameworks, MCP servers, RPA-to-agent transition playbooks, CoE comparisons, and deployment checklists for healthcare and finance.
+
+*Watch this space. More coming soon.*
+
+[👀 Watch](https://github.com/MarioLazo/agentic-coe/subscription) · [⭐ Star](https://github.com/MarioLazo/agentic-coe)
 
 ---
 
-## 📚 Other Projects
+## ✍️ Writing & Speaking
 
-<div align="center">
+I write about the gap between AI hype and production reality — and what it takes to close it.
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧮 **[LeetCode Solutions](https://github.com/MarioLazo/Leetcode)** | Algorithm solutions in Python | `Python` `Algorithms` |
-| 🔍 **[Data Observation Toolkit](https://github.com/MarioLazo/Data-Observation-Toolkit)** | Monitor data integrity and flag attention scenarios | `Data Quality` |
-| 🤖 **[LLM Zoomcamp](https://github.com/MarioLazo/llm-zoomcamp)** | Building Q&A systems with LLMs | `LLMs` `RAG` |
-| 📖 **[Data Scientist Handbook](https://github.com/MarioLazo/data-scientist-handbook)** | Comprehensive data science learning resources | `Education` |
-
-</div>
+| | |
+|---|---|
+| 📰 **[Agentic Field Notes](https://datalearningscience.com/)** | Practitioner-focused writing on enterprise AI, RAG in production, and agentic system design *(currently Data Learning Science — rebranding soon)* |
+| 🎤 **Toronto Machine Learning Summit** | [torontomachinelearning.com](https://www.torontomachinelearning.com/) — June |
+| 🎤 **MLOps World / GenAI World Austin** | [mlopsworld.com](https://mlopsworld.com/) — October |
+| 🏫 **University of Texas at Dallas** | Teaching AI Coding Agents — bridging academic curriculum and production engineering |
 
 ---
 
 ## 📖 Published Work
 
-<div align="center">
+**[AI Data Privacy and Protection](https://a.co/d/08QZ6bfp)** · Co-author  
+A practitioner's guide to building AI systems that respect user privacy while delivering real value.
 
-### 📕 AI Data Privacy and Protection
-
-*As a co-author, I contribute to advancing the discourse on responsible AI development and data protection practices.*
-
-</div>
+**Beyond the Bot** · Author  
+Enterprise AI transformation — from pilot purgatory to production.
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Communities I Learn & Give Back To
 
-<div align="center">
+*If you're transitioning into AI or trying to level up — these are the spaces worth your time.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarioLazo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariolazo/)
+| Community | What It Is |
+|-----------|------------|
+| 🧠 [Toronto Machine Learning Summit](https://www.torontomachinelearning.com/) | One of North America's premier ML conferences. Practitioners sharing what's actually working. |
+| ⚙️ [MLOps World](https://mlopsworld.com/) | Where MLOps and AI engineering converge. Real stories from teams shipping at scale. |
+| 📖 [MLOps Community](https://mlops.community/) | The **Reading Group** is one of the best on-ramps to staying current without drowning in jargon. |
+| 📊 [AI Loves Data](https://ailovesdata.com/) | Connecting practitioners who believe good data is the foundation of good AI. |
+| 🔬 [IEEE AI Chapter](https://www.ieee.org/) | Grounding the work in rigorous standards and ethics. |
+| 🤖 [OpenHands](https://github.com/All-Hands-AI/OpenHands) | The open-source coding agent framework that deepened my understanding of how agentic systems actually work. |
+
+> 💡 *New to AI? Start with the MLOps Community Reading Group. It's the most accessible way I know to engage with cutting-edge research.*
 
 ---
 
-### 💬 Open to:
-**Collaborations** • **AI/ML Projects** • **Speaking Opportunities** • **Research Partnerships**
+## 📊 GitHub Activity
 
-</div>
+*After more than a decade of building in stealth mode, I'm now sharing my agentic field notes openly.*
+
+![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarioLazo&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+## 🔧 Other Work
+
+| Project | Description |
+|---------|-------------|
+| 🔍 [Data Observation Toolkit](https://github.com/MarioLazo/Data-Observation-Toolkit) | Monitor data integrity and surface attention scenarios in production pipelines |
+| 📖 [Data Scientist Handbook](https://github.com/MarioLazo/data-scientist-handbook) | Comprehensive learning resources for practitioners entering the field |
+
+---
+
+## Let's Build Together
+
+If you believe AI should serve humanity's biggest challenges — not just optimize ad clicks — I'd like to hear from you.
+
+Whether you're an engineer, researcher, domain expert, or writer — if you're willing to do the difficult work of building real, governed, useful agents — there's a place for you here.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariolazo/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarioLazo)
 
 ---
 
 <div align="center">
 
-### 🌟 *"In the midst of chaos, there is also opportunity"* - Sun Tzu
+*"In the midst of chaos, there is also opportunity."* — Sun Tzu
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+**Heart and mind. Rigor and compassion. Building AI that makes us better.**
 
 </div>
