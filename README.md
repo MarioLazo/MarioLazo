@@ -1,151 +1,93 @@
 # Mario Lazo
 
-> *"AI should accelerate human capability — and grow our hearts to be better people."*
+**I help enterprises turn AI and data investments into operating change that executives can fund, govern, and scale.**
 
-I'm a **Data & AI Solution Architect** based in Austin, Texas — grounded in rigorous research, driven by problems worth solving.
+Enterprise systems → ERP and global practice leadership → automation and customer transformation → applied AI → AI and data transformation. Across every stage, the same lesson holds: technology creates value only when it connects to the operating process, decision rights, data, governance, people, and economics around it.
 
-After a decade working in stealth mode across healthcare, finance, and enterprise operations — building award winning AI Workflows and 230+ agents, failing forward, and learning what actually works — I'm now sharing my field notes openly. **Because the biggest problems we face — poverty, disease, inequity — won't be solved by keeping knowledge locked away.**
-
-I believe AI must balance **the mind and the heart**. Technical rigor matters. So does building systems that serve people, not just metrics.
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariolazo/)
-
----
-
-## 🔬 Active Research — Seeking Contributors
-
-*These aren't side projects. They're ongoing research and learning initiatives where I'm actively seeking collaborators — developers, domain experts, researchers, and writers willing to do the difficult work of building real, useful, smart, governed agents.*
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏭 [Agent Factory Reference](https://github.com/MarioLazo/agent-factory-reference)
-![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen?style=flat-square)
-
-**Curating resources and assets to build the Agentic Factory in highly regulated industries** — healthcare, finance, and supply chain — where domain expertise is critical and governance isn't optional.
-
-The practitioner's reference: clean, searchable, no jargon. Covers the operating model, orchestration, and observability needed to scale agents beyond pilot purgatory.
-
-[⭐ Star](https://github.com/MarioLazo/agent-factory-reference) · [🍴 Fork](https://github.com/MarioLazo/agent-factory-reference/fork) · [📝 Contribute](https://github.com/MarioLazo/agent-factory-reference/issues)
-
-</td>
-<td width="50%">
-
-### 📚 [RAG Production Guide](https://github.com/MarioLazo/rag-production-guide)
-![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen?style=flat-square)
-
-**My personal guide as a solution architect — now open to all.** A compiled list of applied experience in intelligent document processing, agents, and research over the past 6 years.
-
-Battle-tested RAG: common failure modes, architecture decisions that don't survive contact with reality, and patterns that actually hold up in production.
-
-[⭐ Star](https://github.com/MarioLazo/rag-production-guide) · [🍴 Fork](https://github.com/MarioLazo/rag-production-guide/fork) · [📝 Contribute](https://github.com/MarioLazo/rag-production-guide/issues)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🤖 [Vibe Coding to Agent Engineering](https://github.com/MarioLazo/vibe-coding-to-agent-engineering)
-![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen?style=flat-square) ![UT Dallas](https://img.shields.io/badge/UT_Dallas-Course_Material-orange?style=flat-square)
-
-**Teaching a class with the University of Texas at Dallas** — sharing research and teaching content to help developers transition to AI in a practical way.
-
-From vibe coding to agent engineering: a hands-on curriculum for developers making the leap from AI-assisted coding to building production-ready autonomous agents. Covers agent architecture, deployment patterns, and real-world engineering practices.
-
-[⭐ Star](https://github.com/MarioLazo/vibe-coding-to-agent-engineering) · [🍴 Fork](https://github.com/MarioLazo/vibe-coding-to-agent-engineering/fork) · [📝 Contribute](https://github.com/MarioLazo/vibe-coding-to-agent-engineering/issues)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Why Contribute?
-
-I'm not looking for passive observers. I'm looking for people who want to **learn by building** and **grow by teaching others**.
-
-| What You Get | What We Build Together |
-|--------------|------------------------|
-| 🎓 **Learn in public** — work through real problems, not tutorials | Real, useful, smart, governed agents |
-| 📝 **Co-author research papers** — your contributions become published work | Production-grade frameworks for regulated industries |
-| 🏆 **Build your reputation** — be recognized as an expert by giving back | A community of rigorous practitioners |
-| 🌱 **Grow with a community** — we do the difficult work together | Knowledge that's open and accessible to all |
-
-> *"If you want to go fast, go alone. If you want to go far, go together."*
-
----
-
-## 📘 Coming Soon
-
-### 🧠 [Agentic CoE](https://github.com/MarioLazo/agentic-coe)
-![Coming Soon](https://img.shields.io/badge/status-coming_soon-yellow?style=flat-square)
-
-**Building an Agentic Center of Excellence** — the practitioner's map for enterprise AI transformation.
-
-This repository is being developed as companion material for my upcoming book. It will include frameworks, MCP servers, RPA-to-agent transition playbooks, CoE comparisons, and deployment checklists for healthcare and finance.
-
-*Watch this space. More coming soon.*
-
-[👀 Watch](https://github.com/MarioLazo/agentic-coe/subscription) · [⭐ Star](https://github.com/MarioLazo/agentic-coe)
-
----
-
-## ✍️ Writing & Speaking
-
-I write about the gap between AI hype and production reality — and what it takes to close it.
-
-| | |
-|---|---|
-| 📰 **[Agentic Field Notes](https://datalearningscience.com/)** | Practitioner-focused writing on enterprise AI, RAG in production, and agentic system design *(currently Data Learning Science — rebranding soon)* |
-| 🎤 **Toronto Machine Learning Summit** | [torontomachinelearning.com](https://www.torontomachinelearning.com/) — June |
-| 🎤 **MLOps World / GenAI World Austin** | [mlopsworld.com](https://mlopsworld.com/) — October |
-| 🏫 **University of Texas at Dallas** | Teaching AI Coding Agents — bridging academic curriculum and production engineering |
-
----
-
-## 📖 Published Work
-
-**[AI Data Privacy and Protection](https://a.co/d/08QZ6bfp)** · Co-author  
-A practitioner's guide to building AI systems that respect user privacy while delivering real value.
-
-**Beyond the Bot** · Author *(in progress)*  
-Building the Agentic Center of Excellence — a practical guide to designing the agentic operating model and factory at scale to deliver tangible outcomes.
-
----
-
-## 🌐 Communities I Learn & Give Back To
-
-*If you're transitioning into AI or trying to level up — these are the spaces worth your time.*
-
-| Community | What It Is |
-|-----------|------------|
-| 🧠 [Toronto Machine Learning Summit](https://www.torontomachinelearning.com/) | One of North America's premier ML conferences. Practitioners sharing what's actually working. |
-| ⚙️ [MLOps World](https://mlopsworld.com/) | Where MLOps and AI engineering converge. Real stories from teams shipping at scale. |
-| 📖 [MLOps Community](https://mlops.community/) | The **Reading Group** is one of the best on-ramps to staying current without drowning in jargon. |
-| 📊 [AI Loves Data](https://ailovesdata.com/) | Connecting practitioners who believe good data is the foundation of good AI. |
-| 🔬 [IEEE AI Chapter](https://www.ieee.org/) | Grounding the work in rigorous standards and ethics. |
-| 🤖 [OpenHands](https://github.com/All-Hands-AI/OpenHands) | The open-source coding agent framework that deepened my understanding of how agentic systems actually work. |
-
-> 💡 *New to AI? Start with the MLOps Community Reading Group. It's the most accessible way I know to engage with cutting-edge research.*
-
----
-
-## Let's Build Together
-
-If you believe AI should serve humanity's biggest challenges — not just optimize ad clicks — I'd like to hear from you.
-
-Whether you're an engineer, researcher, domain expert, or writer — if you're willing to do the difficult work of building real, governed, useful agents — there's a place for you here.
+Co-author of **[AI Data Privacy and Protection](https://a.co/d/08QZ6bfp)** (Technics Publications, 2024). Based in Austin, Texas.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariolazo/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarioLazo)
 
 ---
 
-<div align="center">
+## The frameworks I work from
 
-*"In the midst of chaos, there is also opportunity."* — Sun Tzu
+Five tools I apply in every discovery, assessment, and architecture review. They come from production post-mortems, not theory, and they exist because of one finding that repeats across industries:
 
-**Heart and mind. Rigor and compassion. Building AI that makes us better.**
+> **Most production AI failures are not technical failures. They are meaning failures** — the system answered a question nobody needed answered, optimized a metric nobody cared about, or ran at an autonomy level the organization wasn't equipped to govern.
 
-</div>
+**The Meaning Gap** — the distance between what an AI system optimizes and what the organization actually needs. Assessed on two axes, *Run* (can it execute reliably?) and *Reason* (is it reasoning about the right problem?). Most organizations measure only Run. The dangerous quadrant is **Precise but Wrong**: high operational confidence in a system solving the wrong problem. *Presented at the Toronto Machine Learning Summit.*
+
+**Three Proofs** — every initiative must prove **Technical** ("does it work?"), **Business** ("does it matter?"), and **Governance** ("is it safe to use?"). Each has a predictable failure mode when missing: works in POC but breaks at scale; works but moves no metric; delivers value but creates audit and regulatory exposure.
+
+**Agent Seniority Ladder** — five levels of autonomy, from bounded task automation to autonomous orchestration, each with distinct data requirements, risk profile, and governance needs. The most common misjudgment: **claiming Level 4 readiness while operating at Level 2.**
+
+**Four Modes** — DOING · DECIDING · DESIGNING · DIRECTING. What is the AI actually doing — executing a task, informing a decision, generating an artifact, or directing other agents? Each mode carries its own risk profile and governance requirement. DIRECTING is where errors cascade before a human sees them.
+
+**The Production Gate Question** — *"If this agent gives the right answer to the wrong question, how would you know?"* Not rhetorical. It needs a specific operational answer before architecture work begins. The most dangerous response is a confident, fast one from a team that has never considered it.
+
+Worked examples and the executive-level treatment live in **[Agentic CoE](https://github.com/MarioLazo/agentic-coe)**.
+
+---
+
+## Where I create the most value
+
+**AI & Data Transformation** — opportunity discovery, roadmaps, operating models, adoption, and value realization.
+
+**Enterprise AI Strategy** — translating AI ambition into workflows, investment choices, architecture decisions, and measurable outcomes.
+
+**AI Governance & Trust** — privacy, evaluation, human oversight, controls, and accountability designed into production rather than bolted on.
+
+**Practice & Commercial Leadership** — building teams, offerings, reusable capabilities, delivery models, and executive relationships.
+
+## Track record
+
+**NetSuite** — led global professional services and customer success capabilities spanning enterprise applications, integrations, global delivery, and practice economics.
+
+**Blue Prism · UiPath** — worked at the intersection of automation, enterprise adoption, customer outcomes, and transformation.
+
+**IG Labs** — enterprise AI strategy, agentic operating models, governance, solution architecture, and reusable AI capabilities.
+
+---
+
+## Current work
+
+### [Agentic CoE](https://github.com/MarioLazo/agentic-coe)
+
+The practitioner's map for building an **Agentic Center of Excellence** — the operating model, governance structure, decision rights, and reusable capabilities that move enterprise AI past pilot purgatory.
+
+Most AI programs stall not because the technology fails, but because nothing around it is built to fund, govern, or scale what works. The CoE is the answer to that: the frameworks above applied at the executive level, plus MCP servers, RPA-to-agent transition playbooks, operating-model comparisons, and deployment checklists for regulated industries.
+
+This is where my current writing and research is focused.
+
+---
+
+## Writing & speaking
+
+**[Agentic Field Notes](https://datalearningscience.com/)** — practitioner writing on enterprise AI, RAG in production, and agentic system design.
+
+**Books** — *AI Data Privacy and Protection* (co-author, Technics Publications, 2024). A second book on building the Agentic Center of Excellence is in progress.
+
+**Speaking & teaching**
+
+- **"The Meaning Gap"** — Toronto Machine Learning Summit. Why AI systems that answer correctly still fail.
+- **MLOps World / GenAI World**, Austin
+- **University of Texas at Dallas** — teaching AI coding agents, bridging academic curriculum and production engineering
+
+---
+
+## Let's work together
+
+I'm looking for **research collaboration, thought partnership, and people building the data and AI community.**
+
+If you're working on the hard part — not whether AI *can* do something, but whether an organization can trust it, govern it, operationalize it, and prove value from it at scale — I'd like to compare notes.
+
+That includes practitioners with production scar tissue, researchers working on evaluation and governance, executives navigating the operating-model question, and anyone building community around this work.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariolazo/)
+
+---
+
+**Areas of interest** — AI Transformation · Data & AI Strategy · AI Adoption & Enablement · Intelligent Automation · AI Governance · Enterprise Operations · AI/Data Practice Leadership
+
+*Technical rigor matters. So does building systems that serve people, not just metrics.*
