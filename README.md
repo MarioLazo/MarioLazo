@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mario Lazo
+# Nice to meet you. I'm Mario Lazo
 
 **I help enterprises turn AI and data investments into operating change that executives can fund, govern, and scale.**
 
