@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 580" width="900" height="580" role="img"
+     aria-label="The Meaning Gap. Two axes: Run, can it execute reliably, and Reason, is it reasoning about the right problem. The dangerous quadrant is high Run and low Reason: precise but wrong. Most organisations measure only the Run axis.">
+  <defs><style>
+    .paper{fill:#F4EFE4}
+    .ink{fill:#23201B;font-family:Georgia,'Times New Roman',serif}
+    .pencil{fill:#8A8377;font-family:Georgia,serif;font-style:italic}
+    .red{fill:#C0392B;font-family:Georgia,serif}
+    .q{font-family:Georgia,serif}
+    .s-axis{stroke:#23201B;fill:none;stroke-width:1.8;stroke-linecap:round}
+    .s-grid{stroke:#DCD5C6;fill:none;stroke-width:1}
+    .s-red{stroke:#C0392B;fill:none;stroke-width:2.2;stroke-linecap:round}
+    .s-pencil{stroke:#B8B0A0;fill:none;stroke-width:1.3}
+  </style></defs>
+
+  <rect class="paper" width="900" height="580"/>
+  <path class="s-grid" d="M14 15 Q450 11 886 16 Q889 296 885 565 Q450 569 15 564 Q11 296 14 15"/>
+
+  <text class="ink" x="46" y="56" font-size="26" font-weight="bold">The Meaning Gap</text>
+  <text class="pencil" x="46" y="82" font-size="15">Every one of these systems works. That is what makes them hard to catch.</text>
+
+  <!-- quadrants -->
+  <rect x="150" y="120" width="320" height="180" fill="#EFEADF"/>
+  <rect x="470" y="120" width="320" height="180" fill="#E8F3EC"/>
+  <rect x="150" y="300" width="320" height="180" fill="#EFEADF"/>
+  <rect x="470" y="300" width="320" height="180" fill="#FBEAE8"/>
+  <path class="s-red" d="M470 300 L790 300 L790 480 L470 480 Z"/>
+
+  <path class="s-grid" d="M470 120 L470 480 M150 300 L790 300"/>
+  <path class="s-axis" d="M150 480 L790 480 M150 120 L150 480"/>
+
+  <!-- quadrant labels -->
+  <text class="ink q" x="310" y="200" font-size="17" text-anchor="middle">Right idea,</text>
+  <text class="ink q" x="310" y="224" font-size="17" text-anchor="middle">unreliable</text>
+  <text class="pencil" x="310" y="252" font-size="13" text-anchor="middle">visibly broken — gets fixed</text>
+
+  <text class="ink q" x="630" y="200" font-size="17" font-weight="bold" text-anchor="middle">Working</text>
+  <text class="pencil" x="630" y="228" font-size="13" text-anchor="middle">right problem, run reliably</text>
+
+  <text class="ink q" x="310" y="380" font-size="17" text-anchor="middle">Obviously broken</text>
+  <text class="pencil" x="310" y="408" font-size="13" text-anchor="middle">safe, because everyone can see it</text>
+
+  <text class="red" x="630" y="378" font-size="19" font-weight="bold" text-anchor="middle">Precise but Wrong</text>
+  <text class="pencil" x="630" y="406" font-size="13.5" text-anchor="middle">answers the wrong question,</text>
+  <text class="pencil" x="630" y="424" font-size="13.5" text-anchor="middle">confidently, at scale</text>
+  <text class="red" x="630" y="452" font-size="13.5" font-style="italic" text-anchor="middle">← the dangerous one</text>
+
+  <!-- axes -->
+  <text class="ink" x="470" y="512" font-size="16" text-anchor="middle" font-weight="bold">Run — can it execute reliably?</text>
+  <text class="ink" x="118" y="300" font-size="16" font-weight="bold" text-anchor="middle" transform="rotate(-90 118 300)">Reason — the right problem?</text>
+  <text class="pencil" x="160" y="500" font-size="12">low</text>
+  <text class="pencil" x="770" y="500" font-size="12">high</text>
+
+  <!-- the point, in red pen -->
+  <path class="s-pencil" d="M300 528 Q470 524 640 530" stroke-dasharray="6 6"/>
+  <text class="red" x="46" y="548" font-size="16" font-style="italic">Most organisations measure only this axis.</text>
+</svg>
