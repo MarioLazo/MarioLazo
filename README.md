@@ -101,6 +101,35 @@ requirements, risk profile and governance needs. The most common misjudgment:
 
 ## Current work
 
+### 🛡️ [ARIA](https://github.com/MarioLazo/aria-compliance) &nbsp;·&nbsp; *a system, not a slide deck*
+
+**A compliance assistant that checks its own answers before you see them.**
+
+Ask it about your policies and it cites a source. So does every other assistant
+— and the source that supports the claim, the real document that says something
+else, and the document that never existed all look identical in the answer.
+
+ARIA verifies every citation in the request path, with ordinary rules rather
+than a second model asked for an opinion. Then it measures whether that
+verification actually works:
+
+```
+corruption of the evidence | ARIA's checks | a deliberately blind check
+---------------------------------------------------------------------
+                       10% |    +0.118     |          +0.000
+                       50% |    +0.471     |          +0.000
+                      100% |    +1.000     |          +0.000
+```
+
+The flat column is the one that matters. Without it the first is just a number.
+
+**247 tests, no API key, no infrastructure, about two seconds.** An independent
+review found four real defects; they are fixed, and what it *missed* is
+published too.
+
+<sub>Built on the ideas in the book, to find out which of them survive contact
+with a running system. The ones that did not are documented in the wiki.</sub>
+
 ### 🏛️ [Agentic CoE](https://github.com/MarioLazo/agentic-coe) &nbsp;·&nbsp; ⭐ 16
 
 The practitioner's map for an **Agentic Center of Excellence**: the operating
