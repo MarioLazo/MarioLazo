@@ -14,7 +14,7 @@
 
 ## Most people think production AI fails for technical reasons
 
-It usually does not — and the reason is more uncomfortable than *"the model was
+It usually does not, and the reason is more uncomfortable than *"the model was
 not good enough."*
 
 Across **623+ case studies** and **65+ practitioner interviews**, the pattern
@@ -24,12 +24,12 @@ that repeats is not a model problem:
 > question nobody needed answered, optimised a metric nobody cared about, or ran
 > at an autonomy level the organisation was not equipped to govern.
 
-![The Meaning Gap: a two-by-two of Run against Reason. The dangerous quadrant is high Run and low Reason — precise but wrong. Most organisations measure only the Run axis.](assets/meaning-gap.svg)
+![The Meaning Gap: a two-by-two of Run against Reason. The dangerous quadrant is high Run and low Reason, precise but wrong. Most organisations measure only the Run axis.](assets/meaning-gap.svg)
 
 > ### *"If this gives the right answer to the wrong question, how would you know?"*
 
 Not rhetorical. It needs a specific operational answer **before** architecture
-work begins — and the most dangerous response is a confident, fast one from a
+work begins, and the most dangerous response is a confident, fast one from a
 team that has never considered it.
 
 ---
@@ -37,9 +37,9 @@ team that has never considered it.
 ## How I work
 
 **Vendor-agnostic, first principles, no BS.** I want the abstractions that hold,
-and the real lessons from what shipped — including the failures.
+and the real lessons from what shipped, including the failures.
 **Inversion first:** ask how this fails before asking how it succeeds. And
-**intellectual honesty about the gaps, including my own** — every published
+**intellectual honesty about the gaps, including my own**: every published
 project carries a corrections ledger, because a confident answer that has not
 been stress-tested is the most dangerous artifact in the room.
 
@@ -52,26 +52,15 @@ wrong in a way the existing vocabulary could not name.
 
 | | Answers | The failure it names |
 |---|---|---|
-| **The Meaning Gap** | Are we solving the right problem? | *Precise but Wrong* — high confidence in a system solving the wrong problem |
-| **Three Proofs** | Should we fund it? | Technology · Value · **Competence** — can *we* run it, and fix it at 2am? |
+| **The Meaning Gap** | Are we solving the right problem? | *Precise but Wrong*: high confidence in a system solving the wrong problem |
+| **Three Proofs** | Should we fund it? | Technology · Value · **Competence**: can *we* run it, and fix it at 2am? |
 | **Five Modes** | What is my job now? | Autonomy transfers down the ladder. Responsibility does not |
-| **CLASSIC** | Is it actually working? | Seven dimensions, said out loud in a room — not computed offline |
+| **CLASSIC** | Is it actually working? | Seven dimensions, said out loud in a room, not computed offline |
 | **Agent Seniority Ladder** | How much autonomy has it earned? | Claiming Level 4 readiness while operating at Level 2 |
 
-```mermaid
-flowchart LR
-  A["<b>Doing</b><br/><sub>the work</sub>"] --> B["<b>Directing</b><br/><sub>the steps</sub>"]
-  B --> C["<b>Delegating</b><br/><sub>the outcome</sub>"]
-  C --> D["<b>Designing</b><br/><sub>the environment</sub>"]
-  D --> E["<b>Defining</b><br/><sub>what correct means</sub>"]
+![Five rungs listed in order: Doing, Directing, Delegating, Designing, Defining. Each says what you specify and what you own. A red line down the right, labelled responsibility, does not step down with them.](assets/five-modes.svg)
 
-  style A fill:#EFEADF,stroke:#8A8377
-  style E fill:#FBEAE8,stroke:#C0392B
-```
-
-<sub><b>Five Modes.</b> The further you delegate, the more of your job becomes
-deciding what "correct" means <i>in advance</i> — because you will not be in the
-room when it is decided. An agent cannot be held accountable.</sub>
+<sub><b>Five Modes.</b> Autonomy transfers down the ladder. Responsibility does not, so the further you delegate, the more of your job becomes deciding what "correct" means <i>in advance</i>. You will not be in the room when it is decided.</sub>
 
 <details>
 <summary>The detail behind each one</summary>
@@ -85,7 +74,7 @@ it reasoning about the right problem?). Most organisations measure only Run.
 **Three Proofs.** Each has a predictable failure mode when missing: succeeds in
 POC and fails at scale; works but moves no metric; delivers value until the
 first incident, then has no owner and no path back. **Competence is the harder
-question and the one that predicts whether a pilot survives** — a deployment can
+question and the one that predicts whether a pilot survives**: a deployment can
 be entirely compliant and still fail it, because nobody client-side can
 remediate it at 2am.
 
@@ -112,8 +101,8 @@ Every assistant cites sources. A source that supports the claim, a real document
 that says something else, and a document that never existed **all look identical
 in the answer.**
 
-ARIA verifies every citation in the request path — with ordinary rules, not a
-second model asked for an opinion — then measures whether that verification
+ARIA verifies every citation in the request path, with ordinary rules, not a
+second model asked for an opinion, then measures whether that verification
 actually works:
 
 ```
@@ -126,20 +115,20 @@ corruption of the evidence | ARIA's checks | a deliberately blind check
 
 **The flat column is the one that matters.** Without it, the first is just a number.
 
-247 tests · no API key · ~2s. An independent review found four real defects —
+247 tests · no API key · ~2s. An independent review found four real defects, all
 fixed, and **what it *missed* is published too.**
 
 ### 🏛️ [Agentic CoE](https://github.com/MarioLazo/agentic-coe) &nbsp;·&nbsp; ⭐ 16 &nbsp;&nbsp;|&nbsp;&nbsp; 📘 [Vibe Coding → Agent Engineering](https://github.com/MarioLazo/vibe-coding-to-agent-engineering) &nbsp;·&nbsp; *Part 1, free*
 
 **Agentic CoE** is the operating model, governance and quality gates that move
-enterprise AI past pilot purgatory — the **Agent Card** standard, a ten-gate
+enterprise AI past pilot purgatory, the **Agent Card** standard, a ten-gate
 **Pre-Flight Checklist**, the **BXT Scorecard**. Most programs stall not because
 the technology fails, but because nothing around it is built to fund, govern or
 scale what works.
 
 **Part 1** is a course for people who have never measured an agent. It opens on
 a randomised controlled trial where developers predicted **24% faster**, believed
-afterwards they had been **20% faster**, and were measured **19% slower** — while
+afterwards they had been **20% faster**, and were measured **19% slower**: while
 reviewing their own work throughout. *If your quality signal is your own
 impression, that is the size of the error you are working with.*
 
@@ -151,7 +140,7 @@ impression, that is the size of the error you are working with.*
 notebooks, offline and deterministic, **no API key and no dependencies**.
 
 Three agents. All three pass their own tests. Only one is correct *and* solving
-the right problem — and **"passes its own tests" is the column every agent demo
+the right problem, and **"passes its own tests" is the column every agent demo
 shows you.**
 
 <sub>Part 3, on voice and multimodal agents, in development.</sub>
@@ -159,14 +148,14 @@ shows you.**
 ---
 
 <details>
-<summary><b>Background</b> — track record, writing, speaking</summary>
+<summary><b>Background</b>: track record, writing, speaking</summary>
 
 <br>
 
-**Track record.** **NetSuite** — global professional services and customer success: enterprise
+**Track record.** **NetSuite**: global professional services and customer success: enterprise
 applications, integrations, global delivery, practice economics.
-**Blue Prism · UiPath** — automation, enterprise adoption, transformation.
-**IG Labs** — enterprise AI strategy, agentic operating models, governance,
+**Blue Prism · UiPath**: automation, enterprise adoption, transformation.
+**IG Labs**: enterprise AI strategy, agentic operating models, governance,
 solution architecture.
 
 **Where I create the most value:** AI and data transformation · enterprise AI
@@ -177,7 +166,7 @@ strategy · AI governance and trust · practice and commercial leadership.
 **Books.** *AI Data Privacy and Protection*, co-author, Technics Publications,
 2024. A second, on the Agentic Center of Excellence, in progress.
 
-**Agentic Field Notes.** Dated write-ups from real builds — what happened, what
+**Agentic Field Notes.** Dated write-ups from real builds, what happened, what
 broke, what it cost. **Never edited after publication**, because a dated note
 cannot go stale.
 
@@ -190,9 +179,9 @@ cannot go stale.
 
 ## Let's compare notes
 
-If you are working on the hard part — not whether AI *can* do something, but
+If you are working on the hard part, not whether AI *can* do something, but
 whether an organisation can **trust it, govern it, operationalise it and prove
-value from it at scale** — I would like to hear from you.
+value from it at scale**: I would like to hear from you.
 
 <div align="center">
 

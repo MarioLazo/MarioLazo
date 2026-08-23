@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 470" width="940" height="470" role="img" aria-label="Five rungs listed in order: Doing, Directing, Delegating, Designing, Defining. Each says what you specify and what you own. A red line runs down the right labelled responsibility, and does not step down with them.">
+  <defs><style>
+    .paper{fill:#F4EFE4}
+    .ink{fill:#23201B;font-family:Georgia,'Times New Roman',serif}
+    .pencil{fill:#8A8377;font-family:Georgia,serif;font-style:italic}
+    .red{fill:#C0392B;font-family:Georgia,serif;font-style:italic}
+    .green{fill:#2E7D4F;font-family:Georgia,serif}
+    .s-grid{stroke:#DCD5C6;fill:none;stroke-width:1}
+    .s-red{stroke:#C0392B;fill:none;stroke-width:2.4;stroke-linecap:round}
+    .s-green{stroke:#2E7D4F;fill:none;stroke-width:2.2;stroke-linecap:round}
+    .s-amber{stroke:#C87F0A;fill:none;stroke-width:2.2;stroke-linecap:round}
+    .s-blue{stroke:#2C5F8A;fill:none;stroke-width:2.2;stroke-linecap:round}
+    .s-ink{stroke:#23201B;fill:none;stroke-width:1.6;stroke-linecap:round}
+  </style></defs>
+  <rect class="paper" width="940" height="470"/>
+  <path class="s-grid" d="M14 15 Q470 11 926 16 Q929 235 925 455 Q470 459 15 454 Q11 235 14 15"/>
+  <text class="ink" x="48" y="56" font-size="25" font-weight="bold">What is your job now?</text>
+  <text class="pencil" x="48" y="83" font-size="15">Five rungs. The further down you go, the less of the work is yours and the more of the definition is.</text>
+  <text class="ink" x="96" y="132" font-size="13">you specify</text>
+  <text class="ink" x="470" y="132" font-size="13">you own</text>
+  <text class="ink" x="96" y="158" font-size="17" font-weight="bold">Doing</text>
+  <text class="pencil" x="96" y="178" font-size="13.5">you do the work</text>
+  <text class="ink" x="470" y="158" font-size="15">everything. the AI is a faster hand</text>
+  <path class="s-green" d="M66 152 l8 9 l15 -19"/>
+  <text class="ink" x="110" y="214" font-size="17" font-weight="bold">Directing</text>
+  <text class="pencil" x="110" y="234" font-size="13.5">you specify the steps</text>
+  <text class="ink" x="470" y="214" font-size="15">the plan, and every flaw in it</text>
+  <path class="s-green" d="M80 208 l8 9 l15 -19"/>
+  <text class="ink" x="124" y="270" font-size="17" font-weight="bold">Delegating</text>
+  <text class="pencil" x="124" y="290" font-size="13.5">you specify the outcome</text>
+  <text class="ink" x="470" y="270" font-size="15">the acceptance criteria</text>
+  <path class="s-green" d="M94 264 l8 9 l15 -19"/>
+  <text class="ink" x="138" y="326" font-size="17" font-weight="bold">Designing</text>
+  <text class="pencil" x="138" y="346" font-size="13.5">you set the environment</text>
+  <text class="ink" x="470" y="326" font-size="15">every behaviour it permits</text>
+  <path class="s-green" d="M108 320 l8 9 l15 -19"/>
+  <text class="ink" x="152" y="382" font-size="17" font-weight="bold">Defining</text>
+  <text class="pencil" x="152" y="402" font-size="13.5">you set the standards</text>
+  <text class="ink" x="470" y="382" font-size="15">the standards and the review mechanism</text>
+  <path class="s-green" d="M122 376 l8 9 l15 -19"/>
+  <path class="s-red" d="M886 140 Q891 270 886 394"/>
+  <text class="red" x="878" y="126" font-size="14" text-anchor="end">responsibility</text>
+  <text class="pencil" x="470" y="422" font-size="14">It does not step down with you. An agent cannot be held accountable,</text>
+  <text class="pencil" x="470" y="442" font-size="14">so the further you delegate the more of your job is deciding, in advance,</text>
+  <text class="pencil" x="470" y="462" font-size="14">what correct means. You will not be in the room when it is decided.</text>
+  <text class="pencil" x="48" y="448" font-size="12.5">No rung is a failure state. The top is not the target.</text>
+</svg>
