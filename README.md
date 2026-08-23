@@ -101,8 +101,8 @@ Every assistant cites sources. A source that supports the claim, a real document
 that says something else, and a document that never existed **all look identical
 in the answer.**
 
-ARIA verifies every citation in the request path, with ordinary rules, not a
-second model asked for an opinion, then measures whether that verification
+ARIA verifies every citation in the request path (with ordinary rules, not a
+second model asked for an opinion), then measures whether that verification
 actually works:
 
 ```
@@ -118,7 +118,7 @@ corruption of the evidence | ARIA's checks | a deliberately blind check
 247 tests · no API key · ~2s. An independent review found four real defects, all
 fixed, and **what it *missed* is published too.**
 
-### 🏛️ [Agentic CoE](https://github.com/MarioLazo/agentic-coe) &nbsp;·&nbsp; ⭐ 16 &nbsp;&nbsp;|&nbsp;&nbsp; 📘 [Vibe Coding → Agent Engineering](https://github.com/MarioLazo/vibe-coding-to-agent-engineering) &nbsp;·&nbsp; *Part 1, free*
+### 🏛️ [Agentic CoE](https://github.com/MarioLazo/agentic-coe) &nbsp;·&nbsp; ⭐ 16 &nbsp;&nbsp;|&nbsp;&nbsp; 📘 [Vibe Coding → Agent Engineering](https://github.com/MarioLazo/vibe-coding-to-agent-engineering) &nbsp;·&nbsp; *Part 1 · beta*
 
 **Agentic CoE** is the operating model, governance and quality gates that move
 enterprise AI past pilot purgatory, the **Agent Card** standard, a ten-gate
@@ -128,22 +128,30 @@ scale what works.
 
 **Part 1** is a course for people who have never measured an agent. It opens on
 a randomised controlled trial where developers predicted **24% faster**, believed
-afterwards they had been **20% faster**, and were measured **19% slower**: while
+afterwards they had been **20% faster**, and were measured **19% slower**, while
 reviewing their own work throughout. *If your quality signal is your own
 impression, that is the size of the error you are working with.*
 
+<sub><!-- status:intro-agent-engineering -->
+**Part 1 is in beta.** All 7 modules are written. The runnable demos are still being built.
+<!-- /status --></sub>
+
 <br>
 
-### 🕒 [Agent Reliability Engineering](https://github.com/MarioLazo/agent-reliability) &nbsp;·&nbsp; *Part 2*
+### 🕒 [Agent Reliability Engineering](https://github.com/MarioLazo/agent-reliability) &nbsp;·&nbsp; *Part 2 · beta*
 
-**The 3pm Test.** Would you deploy this agent on a Tuesday at 3pm? Six
-notebooks, offline and deterministic, **no API key and no dependencies**.
+**The 3pm Test.** Would you deploy this agent on a Tuesday at 3pm? Every
+notebook runs offline and deterministically, **no API key and no dependencies**.
 
 Three agents. All three pass their own tests. Only one is correct *and* solving
 the right problem, and **"passes its own tests" is the column every agent demo
 shows you.**
 
-<sub>Part 3, on voice and multimodal agents, in development.</sub>
+<sub><!-- status:reliability-advanced -->
+**Part 2 is in beta.** 16 of 17 modules are written and 7 of 17 have a runnable demo. The rest are being built in the open.
+<!-- /status --></sub>
+
+<sub>Part 3, on voice and multimodal agents, coming soon.</sub>
 
 ---
 
@@ -152,8 +160,8 @@ shows you.**
 
 <br>
 
-**Track record.** **NetSuite**: global professional services and customer success: enterprise
-applications, integrations, global delivery, practice economics.
+**Track record.** **NetSuite**: global professional services and customer success, spanning
+enterprise applications, integrations, global delivery and practice economics.
 **Blue Prism · UiPath**: automation, enterprise adoption, transformation.
 **IG Labs**: enterprise AI strategy, agentic operating models, governance,
 solution architecture.
