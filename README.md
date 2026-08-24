@@ -39,9 +39,15 @@ team that has never considered it.
 **Vendor-agnostic, first principles, no BS.** I want the abstractions that hold,
 and the real lessons from what shipped, including the failures.
 **Inversion first:** ask how this fails before asking how it succeeds. And
-**intellectual honesty about the gaps, including my own**: every published
-project carries a corrections ledger, because a confident answer that has not
-been stress-tested is the most dangerous artifact in the room.
+**intellectual honesty about the gaps, including my own**: the published work
+carries a corrections ledger, because a confident answer that has not been
+stress-tested is the most dangerous artifact in the room.
+
+<sub>What each one has had to fix, in public:
+<a href="https://github.com/MarioLazo/agentic-coe/wiki/Corrections">Agentic CoE</a> ·
+<a href="https://github.com/MarioLazo/vibe-coding-to-agent-engineering/wiki/Corrections">Part 1</a> ·
+<a href="https://github.com/MarioLazo/agent-reliability/wiki/Corrections">Part 2</a>.
+ARIA's is the gap, and it is next.</sub>
 
 ---
 
@@ -81,7 +87,7 @@ remediate it at 2am.
 **CLASSIC.** **C**ost, **L**atency, **A**ccuracy, two context-chosen **S** slots
 (Security, Safety, or Supportability), **I**ntegrity, **C**ompleteness. The
 flexible slots are deliberate: forcing Safety into a conversation about a
-read-only reporting agent wastes a slot, and omitting Security in a PHI
+read-only reporting agent wastes a slot, and omitting Security in a regulated
 environment is negligent.
 
 **Agent Seniority Ladder.** Five levels of autonomy, each with distinct data
@@ -125,6 +131,16 @@ enterprise AI past pilot purgatory, the **Agent Card** standard, a ten-gate
 **Pre-Flight Checklist**, the **BXT Scorecard**. Most programs stall not because
 the technology fails, but because nothing around it is built to fund, govern or
 scale what works.
+
+**[The wiki](https://github.com/MarioLazo/agentic-coe/wiki)** is where the
+operating model is actually written down: 27 pages covering the factory and who
+staffs it, the [agent patterns](https://github.com/MarioLazo/agentic-coe/wiki/Agent-Patterns)
+and [risk tiers](https://github.com/MarioLazo/agentic-coe/wiki/Framework-Spine#risk-tiers),
+[the three drifts](https://github.com/MarioLazo/agentic-coe/wiki/The-Three-Drifts),
+the proof gates and the deployment ladder, what to do in the
+[first 90 days](https://github.com/MarioLazo/agentic-coe/wiki/First-90-Days), and
+[what is not verified](https://github.com/MarioLazo/agentic-coe/wiki/What-Is-Not-Verified)
+on any of it.
 
 **Part 1** is a course for people who have never measured an agent. It opens on
 a randomised controlled trial where developers predicted **24% faster**, believed
