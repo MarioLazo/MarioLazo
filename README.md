@@ -44,9 +44,7 @@ carries a corrections ledger, because a confident answer that has not been
 stress-tested is the most dangerous artifact in the room.
 
 <sub>What each one has had to fix, in public:
-<a href="https://github.com/MarioLazo/agentic-coe/wiki/Corrections">Agentic CoE</a> ·
-<a href="https://github.com/MarioLazo/vibe-coding-to-agent-engineering/wiki/Corrections">Part 1</a> ·
-<a href="https://github.com/MarioLazo/agent-reliability/wiki/Corrections">Part 2</a>.
+<a href="https://github.com/MarioLazo/agentic-coe/wiki/Corrections">Agentic CoE</a>.
 ARIA's is the gap, and it is next.</sub>
 
 ---
@@ -124,7 +122,7 @@ corruption of the evidence | ARIA's checks | a deliberately blind check
 247 tests · no API key · ~2s. An independent review found four real defects, all
 fixed, and **what it *missed* is published too.**
 
-### 🏛️ [Agentic CoE](https://github.com/MarioLazo/agentic-coe) &nbsp;·&nbsp; ⭐ 16 &nbsp;&nbsp;|&nbsp;&nbsp; 📘 [Vibe Coding → Agent Engineering](https://github.com/MarioLazo/vibe-coding-to-agent-engineering) &nbsp;·&nbsp; *Part 1 · beta*
+### 🏛️ [Agentic CoE](https://github.com/MarioLazo/agentic-coe) &nbsp;·&nbsp; ⭐ 16
 
 **Agentic CoE** is the operating model, governance and quality gates that move
 enterprise AI past pilot purgatory, the **Agent Card** standard, a ten-gate
@@ -141,33 +139,6 @@ the proof gates and the deployment ladder, what to do in the
 [first 90 days](https://github.com/MarioLazo/agentic-coe/wiki/First-90-Days), and
 [what is not verified](https://github.com/MarioLazo/agentic-coe/wiki/What-Is-Not-Verified)
 on any of it.
-
-**Part 1** is a course for people who have never measured an agent. It opens on
-a randomised controlled trial where developers predicted **24% faster**, believed
-afterwards they had been **20% faster**, and were measured **19% slower**, while
-reviewing their own work throughout. *If your quality signal is your own
-impression, that is the size of the error you are working with.*
-
-<sub><!-- status:intro-agent-engineering -->
-**Part 1 is in beta.** All 7 modules are written. The runnable demos are still being built.
-<!-- /status --></sub>
-
-<br>
-
-### 🕒 [Agent Reliability Engineering](https://github.com/MarioLazo/agent-reliability) &nbsp;·&nbsp; *Part 2 · beta*
-
-**The 3pm Test.** Would you deploy this agent on a Tuesday at 3pm? Every
-notebook runs offline and deterministically, **no API key and no dependencies**.
-
-Three agents. All three pass their own tests. Only one is correct *and* solving
-the right problem, and **"passes its own tests" is the column every agent demo
-shows you.**
-
-<sub><!-- status:reliability-advanced -->
-**Part 2 is in beta.** 16 of 17 modules are written and 7 of 17 have a runnable demo. The rest are being built in the open.
-<!-- /status --></sub>
-
-<sub>Part 3, on voice and multimodal agents, coming soon.</sub>
 
 ---
 
